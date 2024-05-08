@@ -25,6 +25,12 @@ function classNames(...classes) {
 }
 
 function Layout() {
+
+
+
+
+
+  
   return (
     <div className="min-h-full">
       <Disclosure as="nav" className="bg-gray-800">
